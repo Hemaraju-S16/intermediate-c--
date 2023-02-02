@@ -3,8 +3,6 @@
 
 using namespace std;
 
-
-
 struct stud {
         int age;
         int marks;
