@@ -40,7 +40,6 @@ int main()
 
     cout << s2.age;*/
 
-
     stud valid = stud (12,"maj");
 
     valid.marks = 45;
