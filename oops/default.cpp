@@ -2,16 +2,18 @@
 using namespace std;
 
 class employee
+
 {
 
     public:
         employee() //constructor
         {
-                cout <<"cons invoked";
+                cout <<"cons invoked ";
         }
 };
 
 class secondemp 
+
 
 {
     public:
